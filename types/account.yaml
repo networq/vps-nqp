@@ -1,0 +1,9 @@
+name: account
+labelPlural: Accounts
+labelSingular: Account
+
+fields:
+  name:
+    type: string
+  provider:
+    type: networq:vps:provider

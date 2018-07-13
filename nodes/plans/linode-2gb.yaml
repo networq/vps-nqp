@@ -1,0 +1,10 @@
+networq:core:node:
+  name: Linode 2GB
+networq:vps:plan:
+  specs: |
+    * Memory: 2GB
+    * Storage: 50GB
+    * XFER: 2TB
+  pricing: "$10/mo"
+
+  provider: networq:vps:linode

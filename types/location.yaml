@@ -1,0 +1,7 @@
+name: location
+labelPlural: Locations
+labelSingular: Location
+
+fields:
+  provider:
+    type: networq:vps:provider

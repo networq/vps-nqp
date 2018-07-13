@@ -1,0 +1,13 @@
+name: plan
+labelPlural: Plans
+labelSingular: Plan
+
+fields:
+  provider:
+    type: networq:vps:provider
+    
+  specs:
+    type: string
+
+  pricing:
+    type: string

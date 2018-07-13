@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Amazon Webservices
+  image: https://pbs.twimg.com/profile_images/907652118688829440/FrshWMKt_400x400.jpg
+  url: https://aws.amazon.com
+networq:vps:provider: ~

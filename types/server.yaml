@@ -1,0 +1,11 @@
+name: server
+labelPlural: Servers
+labelSingular: Server
+
+fields:
+  name:
+    type: string
+  account:
+    type: networq:vps:account
+  plan:
+    type: networq:vps:plan

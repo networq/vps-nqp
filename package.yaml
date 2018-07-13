@@ -1,0 +1,12 @@
+name: networq:vps
+description: VPS types and nodes
+license: MIT
+
+dependencies:
+  networq:core: latest
+
+# widgets:
+#   sshKeyPairTab:
+#     type: networq:ssh:keyPair
+#     hook: tabs
+#     label: SSH

@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Digital Ocean
+  image: https://pbs.twimg.com/profile_images/1013823368460734464/ATvWxM7a_400x400.jpg
+  url: https://digitalocean.com
+networq:vps:provider: ~

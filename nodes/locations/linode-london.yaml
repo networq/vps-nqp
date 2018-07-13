@@ -1,0 +1,4 @@
+networq:core:node:
+  name: Linode London
+networq:vps:location:
+  provider: networq:vps:linode

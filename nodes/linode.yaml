@@ -1,0 +1,5 @@
+networq:core:node:
+  name: Linode
+  image: https://pbs.twimg.com/profile_images/560705374454423552/BAmS8EKR_400x400.png
+  url: https://linode.com
+networq:vps:provider: ~
